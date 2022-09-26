@@ -1,7 +1,7 @@
 ar = [
     {
-      "Frage": "Nenne die beiden Formen des Arbeitsvertrages",
-      "Antwort": "1. Dienstvertrag (§611 BGB); 2. Werkvertrag (§631 BGB) -> Erfolgsbasiert"
+      "Question": "Test Question",
+      "Answer": "1. Test Answer"
     },
     {
       "Frage": "Der Arbeitgeber ist entweder eine .... oder eine .....",
